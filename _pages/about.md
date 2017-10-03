@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Thanks for visiting my website! It's still somewhat under "construction".
+
 I am an undergraduate student at the University of Waterloo where I study Pure Mathematics & Statistics.
+
 I'm currently on exchange at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway.
-
-My research / work interests include:
-
-* Statistics
-* Computational statistics
-* Applications of statistics to public health
-* Software development
