@@ -12,4 +12,6 @@ Thanks for visiting my website! It's still somewhat under "construction".
 
 I am an undergraduate student at the University of Waterloo where I study Pure Mathematics & Statistics.
 
-I'm currently on exchange at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway.
+---
+
+Contact: ian.waudby-smith _(at)_ edu _(dot)_ uwaterloo _(dot)_ ca
