@@ -14,4 +14,4 @@ I am an undergraduate student at the University of Waterloo where I study Pure M
 
 ---
 
-Contact: ian.waudby-smith _at_ edu.uwaterloo.ca
+Contact: ian.waudby-smith _at_ uwaterloo.ca
