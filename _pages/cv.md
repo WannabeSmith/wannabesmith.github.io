@@ -8,6 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Short CV (résumé)]({{site.url}}/files/iws_shortcv.pdf)
-
-[Long CV]({{site.url}}/files/iws_longcv.pdf)
+[Download CV]({{site.url}}/files/iws_longcv.pdf)
