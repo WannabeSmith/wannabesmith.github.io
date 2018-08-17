@@ -10,8 +10,8 @@ redirect_from:
 
 Thanks for visiting my website! It's still somewhat under "construction".
 
-I am an undergraduate student at the University of Waterloo where I study Pure Mathematics & Statistics.
+I am an incoming PhD student in the Department of Biostatistics at the University of Washington. I completed my undergraduate studies in Pure Math and Statistics at the University of Waterloo in 2018.
 
 ---
 
-Contact: ian.waudby-smith _at_ uwaterloo.ca
+Contact: ierws _at_ uw.edu
