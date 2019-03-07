@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my website! It's still somewhat under "construction".
-
-I am an incoming PhD student in the Department of Biostatistics at the University of Washington. I completed my undergraduate studies in Pure Math and Statistics at the University of Waterloo in 2018.
+I am a Research Student in the Child Health Evaluative Sciences at the Hospital for Sick Children (SickKids) under the supervision of [Dr. Eleanor Pullenayegum](http://www.dlsph.utoronto.ca/faculty-profile/pullenayegum-eleanor/). I received a BMath in Pure Math and Statistics from the University of Waterloo in 2018 and will be entering the PhD program in Statistics at Carnegie Mellon University in August 2019.
 
 ---
 
-Contact: ierws _at_ uw.edu
+Contact: iwaudbysmith _at_ gmail
