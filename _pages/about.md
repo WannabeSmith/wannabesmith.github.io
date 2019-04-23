@@ -12,4 +12,4 @@ I am a Research Student in the Child Health Evaluative Sciences at the Hospital 
 
 ---
 
-Contact: iwaudbysmith _at_ gmail
+Contact: ianws _at_ cmu _dot_ edu
