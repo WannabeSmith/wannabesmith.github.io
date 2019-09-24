@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Student in the Child Health Evaluative Sciences at the Hospital for Sick Children (SickKids) under the supervision of [Dr. Eleanor Pullenayegum](http://www.dlsph.utoronto.ca/faculty-profile/pullenayegum-eleanor/). I received a BMath in Pure Math and Statistics from the University of Waterloo in 2018 and will be entering the PhD program in Statistics at Carnegie Mellon University in August 2019.
+Hi! Thanks for visiting my website. It's still somewhat under construction. 
+
+I am a PhD student in the Department of Statistics & Data Science at Carnegie Mellon University. Outside of school, I like to play the drums, go snowboarding, and watch way too much TV.
 
 ---
 
