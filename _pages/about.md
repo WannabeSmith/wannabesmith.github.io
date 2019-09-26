@@ -14,4 +14,4 @@ I am a PhD student in the Department of Statistics & Data Science at Carnegie Me
 
 ---
 
-Contact: ianws _at_ cmu _dot_ edu
+Contact: ianws _at_ cmu _fullstop_ edu
