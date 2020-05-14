@@ -1,6 +1,6 @@
 title: Ian Waudby-Smith 
 url: "https://ian.waudbysmith.com"
-# baseurl: "/"
+baseurl: ""
 
 markdown: kramdown
 
