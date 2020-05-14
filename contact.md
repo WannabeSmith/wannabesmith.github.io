@@ -3,24 +3,12 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Email: **ianws** *at* **cmu** *fullstop* **edu**
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [GitLab](https://gitlab.com/wannabesmith)
+2. [GitHub](https://github.com/wannabesmith)
+3. [LinkedIn](https://linkedin.com/in/iwaudbysmith)

@@ -1,13 +1,12 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Ian Waudby-Smith 
+url: "https://ian.waudbysmith.com"
+# baseurl: "/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
+footer: no 
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
@@ -17,8 +16,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "index"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "iws_resume.pdf"
  - name: "Contact"
    link: "contact"
