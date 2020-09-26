@@ -9,6 +9,5 @@ is_contact: true
 
 ## Social
 
-1. [GitLab](https://gitlab.com/wannabesmith)
-2. [GitHub](https://github.com/wannabesmith)
-3. [LinkedIn](https://linkedin.com/in/iwaudbysmith)
+1. [GitHub](https://github.com/wannabesmith) and [GitLab](https://gitlab.com/wannabesmith)
+2. [LinkedIn](https://linkedin.com/in/iwaudbysmith)
