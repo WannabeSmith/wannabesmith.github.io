@@ -19,5 +19,5 @@ I am broadly interested in Statistics and Machine Learning with a current focus 
 
 1. [Confidence sequences for sampling without replacement](https://arxiv.org/pdf/2006.04347.pdf)\\
 	I. Waudby-Smith and A. Ramdas.\\
-	NeurIPS, accepted (2020).
+	NeurIPS (2020).
 
