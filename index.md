@@ -4,7 +4,9 @@ layout: default
 
 # About Me
 
-Welcome to my research page! I'm a PhD student in Statistics at [Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/). Before joining CMU, I studied Math and Statistics at the [University of Waterloo](https://uwaterloo.ca/statistics-and-actuarial-science/).
+Welcome to my research page! I'm a PhD student in Statistics at [Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/).
+
+Before joining CMU, I studied Math and Statistics at the [University of Waterloo](https://uwaterloo.ca/statistics-and-actuarial-science/).
 
 ## Research interests
 I am broadly interested in Statistics and Machine Learning with a current focus on:
