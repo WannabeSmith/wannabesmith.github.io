@@ -15,7 +15,7 @@ I am broadly interested in Statistics and Machine Learning with a current focus 
 * Semiparametric and nonparametric methodology, and
 * Applications to public health, policy, and medicine.
 
-## Selected publications
+## Selected papers
 
 1. [Confidence sequences for sampling without replacement](https://arxiv.org/pdf/2006.04347.pdf)\\
 	I. Waudby-Smith and A. Ramdas.\\
