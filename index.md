@@ -15,7 +15,7 @@ I am broadly interested in Statistics and Machine Learning with a current focus 
 * Semiparametric and nonparametric methodology, and
 * Applications to public health, policy, and medicine.
 
-## Selected papers
+## Papers
 
 ### Theory & Methodology
 
