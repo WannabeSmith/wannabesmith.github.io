@@ -10,9 +10,9 @@ Before joining CMU, I studied Math and Statistics at the [University of Waterloo
 
 ## Research interests
 I am broadly interested in Statistics and Machine Learning with a current focus on:
-* Sequential analysis,
-* Causal inference from observational and experimental data,
-* Semiparametric and nonparametric methodology, and
+* Anytime-valid sequential inference,
+* Nonparametric methods,
+* Causal inference, and
 * Applications to public health, policy, and medicine.
 
 ## Papers
