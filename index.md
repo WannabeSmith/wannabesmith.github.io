@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# About Me
-
 Welcome to my research page! I'm a PhD student in Statistics at [Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/).
 
 Before joining CMU, I studied Math and Statistics at the [University of Waterloo](https://uwaterloo.ca/statistics-and-actuarial-science/). I have also been fortunate enough to collaborate with scientists from [Adobe Research](https://research.adobe.com/) and [SickKids](https://www.sickkids.ca/).
@@ -35,3 +33,19 @@ I am broadly interested in Statistics and Machine Learning with a current focus 
 2. [Sentiment in nursing notes as an indicator of out-of-hospital mortality in intensive care patients](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198687)\\
 	I. Waudby-Smith, N. Tran, J. A. Dubin, J. Lee\\
 	PLoS one (2018)
+
+---
+
+## Contact
+
+* Email: **ianws** *at* **cmu** *fullstop* **edu**
+* [GitHub](https://github.com/wannabesmith), [GitLab](https://gitlab.com/wannabesmith)
+* [Google scholar](https://scholar.google.com/citations?user=FnyNlFAAAAAJ&hl=en&oi=ao)
+* [LinkedIn](https://linkedin.com/in/iwaudbysmith)
+
+Ian Waudby-Smith\\
+[Department of Statistics & Data Science](https://stat.cmu.edu)\\
+[Carnegie Mellon University](https://cmu.edu)
+
+---
+
