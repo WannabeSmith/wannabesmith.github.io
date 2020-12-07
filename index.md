@@ -44,8 +44,8 @@ I am broadly interested in Statistics and Machine Learning with a current focus 
 * [LinkedIn](https://linkedin.com/in/iwaudbysmith)
 
 Ian Waudby-Smith\\
-[Department of Statistics & Data Science](https://stat.cmu.edu)\\
-[Carnegie Mellon University](https://cmu.edu)
+[Department of Statistics & Data Science](http://www.stat.cmu.edu)\\
+[Carnegie Mellon University](https://www.cmu.edu)
 
 ---
 
