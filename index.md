@@ -38,14 +38,9 @@ I am broadly interested in Statistics and Machine Learning with a current focus 
 
 ## Contact
 
-* Email: **ianws** *at* **cmu** *fullstop* **edu**
-* [GitHub](https://github.com/wannabesmith), [GitLab](https://gitlab.com/wannabesmith)
-* [Google scholar](https://scholar.google.com/citations?user=FnyNlFAAAAAJ&hl=en&oi=ao)
+* [ianws@cmu.edu](mailto:ianws@cmu.edu)
+* [GitHub](https://github.com/wannabesmith)
 * [LinkedIn](https://linkedin.com/in/iwaudbysmith)
-
-Ian Waudby-Smith\\
-[Department of Statistics & Data Science](http://www.stat.cmu.edu)\\
-[Carnegie Mellon University](https://www.cmu.edu)
 
 ---
 
