@@ -36,7 +36,7 @@ I am broadly interested in Statistics and Machine Learning with a current focus 
 
 ---
 
-## Contact
+## Connect 
 
 * [ianws@cmu.edu](mailto:ianws@cmu.edu)
 * [GitHub](https://github.com/wannabesmith)
