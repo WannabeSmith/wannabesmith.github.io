@@ -18,7 +18,8 @@ I am broadly interested in Statistics and Machine Learning with a current focus 
 ### Theory & Methodology
 
 1. [Estimating means of bounded random variables by betting](https://arxiv.org/pdf/2010.09686.pdf)\\
-	I. Waudby-Smith and A. Ramdas
+	I. Waudby-Smith and A. Ramdas\\
+    Submitted
 
 2. [Confidence sequences for sampling without replacement](https://arxiv.org/pdf/2006.04347.pdf)\\
 	I. Waudby-Smith and A. Ramdas\\
