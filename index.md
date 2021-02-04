@@ -17,7 +17,7 @@ I am broadly interested in Statistics and Machine Learning with a current focus 
 
 ### Theory & Methodology
 
-1. [Variance-adaptive confidence sequences by betting](https://arxiv.org/pdf/2010.09686.pdf)\\
+1. [Estimating means of bounded random variables by betting](https://arxiv.org/pdf/2010.09686.pdf)\\
 	I. Waudby-Smith and A. Ramdas
 
 2. [Confidence sequences for sampling without replacement](https://arxiv.org/pdf/2006.04347.pdf)\\
