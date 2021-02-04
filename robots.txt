@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /Code.zip
+Noindex: /Code.zip
