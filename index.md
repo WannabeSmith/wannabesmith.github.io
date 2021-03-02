@@ -9,17 +9,15 @@ Before joining CMU, I studied Math and Statistics at the [University of Waterloo
 ## Research interests
 I am broadly interested in Statistics and Machine Learning with a current focus on:
 * Anytime-valid sequential inference,
-* Nonparametric methods,
-* Causal inference, and
-* Applications to public health, policy, and medicine.
+* Nonparametric methods, and
+* Causal inference.
 
 ## Papers
 
 ### Theory & Methodology
 
 1. [Estimating means of bounded random variables by betting](https://arxiv.org/pdf/2010.09686.pdf)\\
-	I. Waudby-Smith and A. Ramdas\\
-    Submitted
+	I. Waudby-Smith and A. Ramdas
 
 2. [Confidence sequences for sampling without replacement](https://arxiv.org/pdf/2006.04347.pdf)\\
 	I. Waudby-Smith and A. Ramdas\\
