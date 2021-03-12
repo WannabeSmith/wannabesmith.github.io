@@ -16,7 +16,7 @@ I am broadly interested in Statistics and Machine Learning with a current focus 
 
 ### Theory & Methodology
 
-1. [Doubly robust confidence sequences for sequential causal inference](https://arxiv.org/pdf/2103.06476.pdf)
+1. [Doubly robust confidence sequences for sequential causal inference](https://arxiv.org/pdf/2103.06476.pdf)\\
     I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas
 
 2. [Estimating means of bounded random variables by betting](https://arxiv.org/pdf/2010.09686.pdf)\\
