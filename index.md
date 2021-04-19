@@ -42,9 +42,9 @@ I am broadly interested in Statistics and Machine Learning with a current focus 
 
 ## Connect 
 
-* [ianws@cmu.edu](mailto:ianws@cmu.edu)
-* [GitHub](https://github.com/wannabesmith)
-* [LinkedIn](https://linkedin.com/in/iwaudbysmith)
+* Email: [ianws@cmu.edu](mailto:ianws@cmu.edu)
+* Github: [wannabesmith](https://github.com/wannabesmith)
+* Twitter: [@iwaudbysmith](https://twitter.com/iwaudbysmith)
 
 ---
 
