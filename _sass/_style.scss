@@ -8,16 +8,16 @@ html {
     height: 100%;
     margin: 0;
     padding: 0;
-    color: $base;
+    color: $base_lightmode;
 }
 body {
     margin: 0;
     font-family: "Helvetica";
     height: 100%;
+    background-color: $bg_lightmode;
 }
 a {
     text-decoration: none;
-    color: $accent;
 }
 a:hover {
     text-decoration: underline;
@@ -29,13 +29,39 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
+
+/* 
+ * lightmode/darkmode
+ */
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: $bg_lightmode;
+        color: $base_lightmode;
+    }
+    a {
+        color: $accent_lightmode;
+    }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: $bg_darkmode;
+        color: $base_darkmode;
+    }
+    a {
+        color: $accent_darkmode;
+    }
+}
+
 /*
  * Navbar
  */
 
 #author-name {
     font-size: 30px;
-    color: $base;
     display: inline-block;
 }
 .navbar {
