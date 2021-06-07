@@ -11,7 +11,8 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Helvetica";
+    font-family: $font_family;
+    font-size: $body_font_size;
     height: 100%;
 }
 a {
@@ -59,7 +60,7 @@ hr {
  */
 
 #author-name {
-    font-size: 30px;
+    font-size: $header_font_size;
     display: inline-block;
 }
 .navbar {
