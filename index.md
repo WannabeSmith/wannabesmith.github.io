@@ -12,18 +12,25 @@ I am broadly interested in statistics and machine learning with a current focus 
 ## Selected papers
 
 
-- [Estimating means of bounded random variables by betting](https://arxiv.org/pdf/2010.09686.pdf)\\
-	I. Waudby-Smith and A. Ramdas
+- **Estimating means of bounded random variables by betting** \\
+	I. Waudby-Smith and A. Ramdas \\
+    [arxiv](https://arxiv.org/pdf/2010.09686.pdf)
 
-- [Doubly robust confidence sequences for sequential causal inference](https://arxiv.org/pdf/2103.06476.pdf)\\
-    I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas
+- **Doubly robust confidence sequences for sequential causal inference** \\
+    I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas \\
+    [arxiv](https://arxiv.org/pdf/2103.06476.pdf) · [package](https://github.com/WannabeSmith/sequential.causal)
 
-- [RiLACS: Risk-limiting audits via confidence sequences](https://ian.waudbysmith.com/audit.pdf)\\
-	I. Waudby-Smith, P. Stark, and A. Ramdas
+- **RiLACS: Risk-limiting audits via confidence sequences**\\
+	I. Waudby-Smith, P. Stark, and A. Ramdas \\
+    E-Vote-ID (2021) · 
+    [preprint](https://ian.waudbysmith.com/audit.pdf) 
 
-- [Confidence sequences for sampling without replacement](https://arxiv.org/pdf/2006.04347.pdf)\\
-	I. Waudby-Smith and A. Ramdas\\
-	NeurIPS (2020)
+- **Confidence sequences for sampling without replacement**\\
+	I. Waudby-Smith and A. Ramdas \\
+    NeurIPS (2020) ·
+    [arxiv](https://arxiv.org/pdf/2006.04347.pdf) ·
+    [code](https://github.com/WannabeSmith/confseq_wor) ·
+    [proceedings](https://proceedings.neurips.cc/paper/2020/file/e96c7de8f6390b1e6c71556e4e0a4959-Paper.pdf) 
 
 See [google scholar](https://scholar.google.com/citations?user=FnyNlFAAAAAJ&hl=en&oi=ao) for a full list.
 
