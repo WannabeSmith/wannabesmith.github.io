@@ -30,7 +30,7 @@ I am broadly interested in statistics and machine learning with a current focus 
     NeurIPS (2020) ·
     [arxiv](https://arxiv.org/pdf/2006.04347.pdf) ·
     [code](https://github.com/WannabeSmith/confseq_wor) ·
-    [proceedings](https://proceedings.neurips.cc/paper/2020/file/e96c7de8f6390b1e6c71556e4e0a4959-Paper.pdf) 
+    [proceedings](https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html) 
 
 See [google scholar](https://scholar.google.com/citations?user=FnyNlFAAAAAJ&hl=en&oi=ao) for a full list.
 
