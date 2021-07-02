@@ -23,7 +23,8 @@ I am broadly interested in statistics and machine learning with a current focus 
 - **RiLACS: Risk-limiting audits via confidence sequences**\\
 	I. Waudby-Smith, P. Stark, and A. Ramdas \\
     E-Vote-ID (2021) · 
-    [preprint](https://ian.waudbysmith.com/audit.pdf) 
+    [preprint](https://ian.waudbysmith.com/audit.pdf) ·
+    [package](https://github.com/WannabeSmith/RiLACS)
 
 - **Confidence sequences for sampling without replacement**\\
 	I. Waudby-Smith and A. Ramdas \\
