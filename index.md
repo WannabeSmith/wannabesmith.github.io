@@ -21,7 +21,7 @@ I am broadly interested in statistics and machine learning with a current focus 
     [arxiv](https://arxiv.org/pdf/2103.06476.pdf) · [package](https://github.com/WannabeSmith/sequential.causal)
 
 - **RiLACS: Risk-limiting audits via confidence sequences**\\
-	I. Waudby-Smith, P. Stark, and A. Ramdas \\
+	I. Waudby-Smith, P.B. Stark, and A. Ramdas \\
     E-Vote-ID (2021) · 
     [preprint](https://ian.waudbysmith.com/audit.pdf) ·
     [package](https://github.com/WannabeSmith/RiLACS)
