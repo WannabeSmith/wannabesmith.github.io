@@ -18,7 +18,7 @@ I am broadly interested in statistics and machine learning with a current focus 
 
 - **Doubly robust confidence sequences for sequential causal inference** \\
     I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas \\
-    [arxiv](https://arxiv.org/pdf/2103.06476.pdf) · [package](https://github.com/WannabeSmith/sequential.causal) · [talk](https://www.youtube.com/watch?v=sVOixgpBg1Q)
+    [arxiv](https://arxiv.org/pdf/2103.06476.pdf) · [package](https://github.com/WannabeSmith/drconfseq) · [talk](https://drive.google.com/file/d/1bAh0lXdGxGd7Q-v_MLWqVwaF70VvZY-j/view)
 
 - **RiLACS: Risk-limiting audits via confidence sequences**\\
 	I. Waudby-Smith, P.B. Stark, and A. Ramdas \\
