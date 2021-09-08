@@ -14,7 +14,7 @@ I am broadly interested in statistics and machine learning with a current focus 
 
 - **Estimating means of bounded random variables by betting** \\
 	I. Waudby-Smith and A. Ramdas \\
-    [arxiv](https://arxiv.org/pdf/2010.09686.pdf)
+    [arxiv](https://arxiv.org/pdf/2010.09686.pdf) · [package](https://github.com/WannabeSmith/confseq)
 
 - **Doubly robust confidence sequences for sequential causal inference** \\
     I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas \\
@@ -30,7 +30,7 @@ I am broadly interested in statistics and machine learning with a current focus 
 	I. Waudby-Smith and A. Ramdas \\
     NeurIPS (2020) ·
     [arxiv](https://arxiv.org/pdf/2006.04347.pdf) ·
-    [code](https://github.com/WannabeSmith/confseq_wor) ·
+    [package](https://github.com/WannabeSmith/confseq) ·
     [proceedings](https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html) 
 
 See [google scholar](https://scholar.google.com/citations?user=FnyNlFAAAAAJ&hl=en&oi=ao) for a full list.
