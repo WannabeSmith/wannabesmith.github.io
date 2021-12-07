@@ -14,7 +14,7 @@ I am broadly interested in statistics and machine learning with a current focus 
 
 - **Estimating means of bounded random variables by betting** \\
 	I. Waudby-Smith and A. Ramdas \\
-    [arxiv](https://arxiv.org/pdf/2010.09686.pdf) · [package](https://github.com/WannabeSmith/confseq)
+    [arxiv](https://arxiv.org/pdf/2010.09686.pdf) · [package](https://github.com/WannabeSmith/confseq) · [talk](https://www.youtube.com/watch?v=p3iFHpU8Vkw)
 
 - **Doubly robust confidence sequences for sequential causal inference** \\
     I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas \\
