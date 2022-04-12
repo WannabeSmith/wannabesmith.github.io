@@ -8,7 +8,7 @@ I am broadly interested in statistics and machine learning with a current focus 
 * Anytime-valid sequential inference,
 * Nonparametric methods,
 * Causal inference, and
-* Privacy-preserving technologies.
+* Differential privacy.
 
 ## Selected papers
 
