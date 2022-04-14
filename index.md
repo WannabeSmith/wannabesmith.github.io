@@ -21,7 +21,7 @@ I am broadly interested in statistics and machine learning with a current focus 
 	I. Waudby-Smith and A. Ramdas \\
     [arxiv](https://arxiv.org/abs/2010.09686) · [package](https://github.com/WannabeSmith/confseq) · [talk](https://www.youtube.com/watch?v=p3iFHpU8Vkw)
 
-- **Doubly robust confidence sequences for sequential causal inference** \\
+- **Time-uniform central limit theory with applications to anytime-valid causal inference** \\
     I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas \\
     [arxiv](https://arxiv.org/abs/2103.06476) · [package](https://github.com/WannabeSmith/drconfseq) 
 
