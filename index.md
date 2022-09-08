@@ -17,7 +17,7 @@ I am broadly interested in statistics and machine learning with a current focus 
     I. Waudby-Smith, Z.S. Wu, and A. Ramdas \\
     [arxiv](https://arxiv.org/abs/2202.08728) 
 
-- **Time-uniform central limit theory with applications to anytime-valid causal inference** \\
+- **Time-uniform central limit theory, asymptotic confidence sequences, and anytime-valid causal inference** \\
     I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas \\
     [arxiv](https://arxiv.org/abs/2103.06476) · [package](https://github.com/WannabeSmith/drconfseq) 
 
