@@ -17,13 +17,13 @@ I am broadly interested in statistics and machine learning with a current focus 
     I. Waudby-Smith, Z.S. Wu, and A. Ramdas \\
     [arxiv](https://arxiv.org/abs/2202.08728) 
 
-- **Estimating means of bounded random variables by betting** \\
-	I. Waudby-Smith and A. Ramdas \\
-    [arxiv](https://arxiv.org/abs/2010.09686) · [package](https://github.com/WannabeSmith/confseq) · [talk](https://www.youtube.com/watch?v=p3iFHpU8Vkw)
-
 - **Time-uniform central limit theory with applications to anytime-valid causal inference** \\
     I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas \\
     [arxiv](https://arxiv.org/abs/2103.06476) · [package](https://github.com/WannabeSmith/drconfseq) 
+
+- **Estimating means of bounded random variables by betting** \\
+	I. Waudby-Smith and A. Ramdas \\
+    JRSSB, 2023 _(discussion paper)_ · [arxiv](https://arxiv.org/abs/2010.09686) · [package](https://github.com/WannabeSmith/confseq) · [talk](https://www.youtube.com/watch?v=p3iFHpU8Vkw)
 
 - **RiLACS: Risk-limiting audits via confidence sequences**\\
 	I. Waudby-Smith, P.B. Stark, and A. Ramdas \\
