@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Hi there! I'm a PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/).
+<img class="profile-picture" src="assets/gasworks.jpg">
+
+I'm a PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/). Previously, I was an intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/), [Adobe Research](https://research.adobe.com/), and [SickKids](https://www.sickkids.ca/). Before that, I studied math at the University of Waterloo.
 
 I am broadly interested in statistics and machine learning with a current focus on:
 * Anytime-valid sequential inference,
@@ -23,7 +25,7 @@ I am broadly interested in statistics and machine learning with a current focus 
 
 - **Estimating means of bounded random variables by betting** \\
 	I. Waudby-Smith and A. Ramdas \\
-    JRSSB, 2023 _(discussion paper)_ · [arxiv](https://arxiv.org/abs/2010.09686) · [package](https://github.com/WannabeSmith/confseq) · [talk](https://www.youtube.com/watch?v=p3iFHpU8Vkw)
+    JRSSB, 2023 _(discussion paper)_ · [arxiv](https://arxiv.org/abs/2010.09686) · [package](https://github.com/gostevehoward/confseq) 
 
 - **RiLACS: Risk-limiting audits via confidence sequences**\\
 	I. Waudby-Smith, P.B. Stark, and A. Ramdas \\
@@ -36,7 +38,7 @@ I am broadly interested in statistics and machine learning with a current focus 
 	I. Waudby-Smith and A. Ramdas \\
     NeurIPS, 2020 _(spotlight)_ ·
     [arxiv](https://arxiv.org/abs/2006.04347) ·
-    [package](https://github.com/WannabeSmith/confseq) ·
+    [package](https://github.com/gostevehoward/confseq) ·
     [proceedings](https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html) 
 
 See [google scholar](https://scholar.google.com/citations?user=FnyNlFAAAAAJ&hl=en&oi=ao) for a full list.
