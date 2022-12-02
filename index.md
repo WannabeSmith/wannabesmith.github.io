@@ -4,7 +4,9 @@ layout: default
 
 <img class="profile-picture" src="assets/gasworks.jpg">
 
-I'm a PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/). Previously, I was an intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/), [Adobe Research](https://research.adobe.com/), and [SickKids](https://www.sickkids.ca/). Before that, I studied math at the University of Waterloo. More info can be found in my [CV](iws_cv.pdf).
+I'm a PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/). My research is supported by an Amazon Graduate Research Fellowship.
+
+Previously, I was an intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/), [Adobe Research](https://research.adobe.com/), and [SickKids](https://www.sickkids.ca/). Before that, I studied math at the University of Waterloo. More info can be found in my [CV](iws_cv.pdf).
 
 I am broadly interested in statistics and machine learning with a current focus on:
 * Anytime-valid sequential inference,
