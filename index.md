@@ -20,7 +20,7 @@ I am broadly interested in statistics and machine learning with a current focus 
     I. Waudby-Smith, L. Wu, A. Ramdas, N. Karampatziakis, and P. Mineiro \\
     [arxiv](https://arxiv.org/abs/2210.10768) 
 
-- **Locally private nonparametric confidence intervals and sequences** \\
+- **A nonparametric extension of randomized response for private confidence sets** \\
     I. Waudby-Smith, Z.S. Wu, and A. Ramdas \\
     [arxiv](https://arxiv.org/abs/2202.08728) 
 
