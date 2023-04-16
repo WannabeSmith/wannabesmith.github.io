@@ -2,6 +2,16 @@
 layout: default
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4F3SPT3712"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4F3SPT3712');
+</script>
+
 <img class="profile-picture" src="assets/gasworks.jpg">
 
 I'm a PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/). My research is supported by an Amazon Graduate Research Fellowship.
@@ -11,7 +21,8 @@ Previously, I was an intern at [Microsoft Research](https://www.microsoft.com/en
 I am broadly interested in statistics and machine learning with a current focus on:
 * Anytime-valid sequential inference,
 * Nonparametric methods,
-* Causal inference, and
+* Causal inference,
+* Reinforcement learning, and
 * Differential privacy.
 
 ## Selected papers
@@ -24,7 +35,7 @@ I am broadly interested in statistics and machine learning with a current focus 
     I. Waudby-Smith, Z.S. Wu, and A. Ramdas \\
     [arxiv](https://arxiv.org/abs/2202.08728) 
 
-- **Time-uniform central limit theory, asymptotic confidence sequences, and anytime-valid causal inference** \\
+- **Time-uniform central limit theory and asymptotic confidence sequences** \\
     I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas \\
     [arxiv](https://arxiv.org/abs/2103.06476) · [package](https://github.com/WannabeSmith/drconfseq) 
 
@@ -46,7 +57,7 @@ I am broadly interested in statistics and machine learning with a current focus 
     [package](https://github.com/gostevehoward/confseq) ·
     [proceedings](https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html) 
 
-See [google scholar](https://scholar.google.com/citations?user=FnyNlFAAAAAJ&hl=en&oi=ao) for a full list.
+See [google scholar](https://scholar.google.com/citations?user=FnyNlFAAAAAJ&oi=ao) for a full list.
 
 --- 
 
