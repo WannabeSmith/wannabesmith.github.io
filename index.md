@@ -2,16 +2,6 @@
 layout: default
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4F3SPT3712"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-4F3SPT3712');
-</script>
-
 <img class="profile-picture" src="assets/gasworks.jpg">
 
 I'm a PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/). My research is supported by an Amazon Graduate Research Fellowship.
