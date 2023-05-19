@@ -54,7 +54,7 @@ I am broadly interested in statistical methods that make realistic nonparametric
 
 ## Software 
 
-Below are some software packages that I either maintain or have contributed to. All of these packages should be easily installable (e.g. via `pip install pkg`) and fully documented but please open issues / submit PRs / email me if my code ever gives you a hard time.
+Below are some software packages that I maintain. 
 
 - **confseq: Confidence sequences and uniform boundaries**
 \\
@@ -76,7 +76,7 @@ Below are some software packages that I either maintain or have contributed to. 
 
 - **NPRR: Nonparametric randomized response**
 \\
-*This Python package implements our nonparametric generalization of Warner's randomized response as well as methods for computing differentially private confidence intervals and sequences for means of bounded random variables as in [this paper](https://arxiv.org/abs/2202.08728).*
+*This Python package implements our nonparametric generalization of Warner's randomized response as well as methods for computing differentially private confidence intervals and sequences for means of bounded random variables as in [Waudby-Smith, Wu, and Ramdas (2023)](https://arxiv.org/abs/2202.08728).*
 \\
 [[`github`](https://github.com/WannabeSmith/nprr) · [`pypi`](https://pypi.org/project/nprr/)]
 
