@@ -6,7 +6,7 @@ layout: default
 
 I'm a PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/). My research is supported by an Amazon Graduate Research Fellowship.
 
-Previously, I was an intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/), [Adobe Research](https://research.adobe.com/), and [SickKids](https://www.sickkids.ca/). Before that, I studied math at the University of Waterloo. More info can be found in my [CV](iws_cv.pdf).
+Previously, I was an intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/), [Adobe Research](https://research.adobe.com/), and [SickKids](https://www.sickkids.ca/). Before that, I studied math at the University of Waterloo in Canada.
 
 I am broadly interested in statistical methods that make realistic nonparametric assumptions about data, often in adaptive, sequential settings. More specifically, I focus on
 * Anytime-valid sequential inference,

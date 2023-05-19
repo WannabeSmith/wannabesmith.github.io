@@ -14,3 +14,6 @@ sass:
     style: compressed
     sass_dir: _sass
 
+nav:
+ - name: "CV"
+   link: "iws_cv.pdf"
