@@ -29,7 +29,7 @@ I am broadly interested in statistical methods that make realistic nonparametric
     I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas \\
     [arxiv](https://arxiv.org/abs/2103.06476) 
 
-- **A nonparametric extension of randomized response for private confidence sets** \\
+- **Nonparametric extensions of randomized response for private confidence sets** \\
     I. Waudby-Smith, Z.S. Wu, and A. Ramdas \\
     ICML, 2023 _(oral)_ · [arxiv](https://arxiv.org/abs/2202.08728) 
 
