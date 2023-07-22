@@ -89,7 +89,6 @@ Methods that I have developed have also appeared in some other open-source proje
 * Email: [hello@ianws.org](mailto:hello@ianws.org)
 * Github: [wannabesmith](https://github.com/wannabesmith)
 * Twitter: [@ianws0](https://twitter.com/ianws0)
-* Mstdn: [@ianws@mathstodon.xyz](https://mathstodon.xyz/@ianws)
 
 ---
 
