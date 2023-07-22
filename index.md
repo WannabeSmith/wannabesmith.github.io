@@ -86,7 +86,7 @@ Methods that I have developed have also appeared in some other open-source proje
 
 ## Connect 
 
-* Email: [hello@ianws.org](mailto:hello@ianws.org)
+* Email: [ianws@cmu.edu](mailto:ianws@cmu.edu)
 * Github: [wannabesmith](https://github.com/wannabesmith)
 * Twitter: [@ianws0](https://twitter.com/ianws0)
 
