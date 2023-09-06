@@ -1,10 +1,12 @@
 title: Ian Waudby-Smith 
-url: "https://ianws.org"
+url: "https://ianws.com"
 baseurl: ""
 
 markdown: kramdown
 
 tracking_id: G-4F3SPT3712
+
+markdown: kramdown
 
 footer: no
 footer_url: "https://github.com/ankitsultana"
@@ -15,5 +17,9 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Papers"
+   link: "papers"
+ - name: "Software"
+   link: "software"
  - name: "CV"
    link: "ianws_cv.pdf"
