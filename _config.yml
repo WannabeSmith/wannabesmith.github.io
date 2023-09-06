@@ -1,5 +1,5 @@
 title: Ian Waudby-Smith 
-url: "https://ianws.org"
+url: "https://ianws.com"
 baseurl: ""
 
 markdown: kramdown
@@ -15,5 +15,9 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Papers"
+   link: "papers"
+ - name: "Software"
+   link: "software"
  - name: "CV"
    link: "ianws_cv.pdf"

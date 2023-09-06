@@ -93,6 +93,7 @@ hr {
 .container {
     max-width: $max-width;
     margin: auto;
+    line-height: $content-line-height;
 }
 .wrapper {
     min-height: 100%;
