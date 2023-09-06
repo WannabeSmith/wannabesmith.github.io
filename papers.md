@@ -3,9 +3,8 @@ layout: default
 ---
 
 
-## Selected papers
+### Selected papers
 
-(Full list on [google scholar](https://scholar.google.com/citations?user=FnyNlFAAAAAJ&oi=ao).)
 
 - **Anytime-valid off-policy inference for contextual bandits** \\
     I. Waudby-Smith, L. Wu, A. Ramdas, N. Karampatziakis, and P. Mineiro \\
@@ -34,3 +33,5 @@ layout: default
     NeurIPS, 2020 _(spotlight)_ ·
     [arxiv](https://arxiv.org/abs/2006.04347) ·
     [proceedings](https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html) 
+
+(A full list can be found on [google scholar](https://scholar.google.com/citations?user=FnyNlFAAAAAJ&oi=ao).)

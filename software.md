@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Software 
+### Software 
 
-Below are some software packages that I maintain. 
+Here are some software packages that I have worked on.
 
 - **confseq: Confidence sequences and uniform boundaries**
 \\
