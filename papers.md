@@ -5,6 +5,10 @@ layout: default
 
 ### Selected papers
 
+- **Distribution-uniform anytime-valid inference** \\
+    I. Waudby-Smith and A. Ramdas \\
+    [arxiv](https://arxiv.org/abs/2311.03343) | [pdf](https://arxiv.org/pdf/2311.03343.pdf)
+
 - **Time-uniform central limit theory and asymptotic confidence sequences** \\
     I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas \\
     [arxiv](https://arxiv.org/abs/2103.06476) | [pdf](https://arxiv.org/pdf/2103.06476.pdf)
