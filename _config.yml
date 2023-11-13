@@ -2,15 +2,11 @@ title: Ian Waudby-Smith
 url: "https://ianws.com"
 baseurl: ""
 
-markdown: kramdown
-
 tracking_id: #
 
-markdown: kramdown
-
-footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: false
+footer_url: "https://github.com/wannabesmith/wannabesmith.github.io"
+footer_text: "Fork my website on github"
 
 sass:
     style: compressed
@@ -18,8 +14,8 @@ sass:
 
 nav:
  - name: "Papers"
-   link: "papers"
+   link: "/papers"
  - name: "Software"
-   link: "software"
+   link: "/software"
  - name: "CV"
-   link: "ianws_cv.pdf"
+   link: "/ianws_cv.pdf"
