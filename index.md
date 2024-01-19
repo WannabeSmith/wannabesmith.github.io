@@ -9,12 +9,7 @@ I'm a PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.
 
 Before coming to CMU, I studied math and statistics at the University of Waterloo in Canada.
 
-I am broadly interested in statistical theory and methodology under weak assumptions, often in adaptive and sequential settings. For example, I focus on
-* anytime-valid sequential inference,
-* nonparametric methods,
-* causal inference,
-* reinforcement learning, and
-* differential privacy.
+I am broadly interested in statistical theory, often with an eye towards nonparametric inference in adaptive and sequential settings.
 
 ---
 
