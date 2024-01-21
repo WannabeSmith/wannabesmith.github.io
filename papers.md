@@ -5,33 +5,33 @@ layout: default
 
 ### Selected papers
 
-- **Distribution-uniform anytime-valid inference** \\
-    I. Waudby-Smith and A. Ramdas \\
-    [arxiv](https://arxiv.org/abs/2311.03343) &middot; [pdf](https://arxiv.org/pdf/2311.03343.pdf)
++ **Distribution-uniform anytime-valid inference** \\
+  Ian Waudby-Smith and Aaditya Ramdas \\
+  [arXiv](https://arxiv.org/abs/2311.03343)
 
-- **Time-uniform central limit theory and asymptotic confidence sequences** \\
-    I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas \\
-    [arxiv](https://arxiv.org/abs/2103.06476) &middot; [pdf](https://arxiv.org/pdf/2103.06476.pdf)
++ **Time-uniform central limit theory and asymptotic confidence sequences** \\
+  Ian Waudby-Smith, David Arbour, Ritwik Sinha, Edward H. Kennedy, and Aaditya Ramdas \\
+  [arXiv](https://arxiv.org/abs/2103.06476)
 
-- **Anytime-valid off-policy inference for contextual bandits** \\
-    I. Waudby-Smith, L. Wu, A. Ramdas, N. Karampatziakis, and P. Mineiro \\
-    [arxiv](https://arxiv.org/abs/2210.10768) &middot; [pdf](https://arxiv.org/pdf/2210.10768.pdf) &middot; ACM/IMS J. of Data Science, 2023+
++ **Anytime-valid off-policy inference for contextual bandits** \\
+  Ian Waudby-Smith, Lili Wu, Aaditya Ramdas, Nikos Karampatziakis, and Paul Mineiro \\
+   [arXiv](https://arxiv.org/abs/2210.10768) &middot; *ACM/IMS J. of Data Science*, 2023+ 
 
-- **Nonparametric extensions of randomized response for private confidence sets** \\
-    I. Waudby-Smith, Z.S. Wu, and A. Ramdas \\
-    [arxiv](https://arxiv.org/abs/2202.08728) &middot; [pdf](https://arxiv.org/pdf/2202.08728.pdf) &middot; ICML, 2023 _(oral)_ 
++ **Nonparametric extensions of randomized response for private confidence sets** \\
+  Ian Waudby-Smith, Zhiwei Steven Wu, and Aaditya Ramdas \\
+  [arXiv](https://arxiv.org/abs/2202.08728) &middot; _ICML_, 2023 <span style="color:blue">_(oral)_</span>
 
-- **Estimating means of bounded random variables by betting** \\
-	I. Waudby-Smith and A. Ramdas \\
-    [arxiv](https://arxiv.org/abs/2010.09686) &middot; [pdf](https://arxiv.org/pdf/2010.09686.pdf) &middot; J. of the Royal Statistical Society, Series B, 2023 _(discussion paper)_ 
++ **Estimating means of bounded random variables by betting** \\
+Ian Waudby-Smith and Aaditya Ramdas \\
+  [arXiv](https://arxiv.org/abs/2010.09686) &middot; _J. of the Royal Statistical Society, Series B_, 2023 <span style="color:blue">_(discussion paper)_</span>
 
-- **RiLACS: Risk-limiting audits via confidence sequences**\\
-	I. Waudby-Smith, P.B. Stark, and A. Ramdas \\
-    [arxiv](https://arxiv.org/abs/2107.11323) &middot; [pdf](https://arxiv.org/pdf/2107.11323.pdf) &middot; Intl. Conf. for Electronic Voting (E-Vote-ID), 2021 _(Best paper award)_ 
++ **RiLACS: Risk-limiting audits via confidence sequences**\\
+Ian Waudby-Smith, Philip B. Stark, and Aaditya Ramdas \\
+  [arXiv](https://arxiv.org/abs/2107.11323) &middot; _Intl. Conf. for Electronic Voting (E-Vote-ID)_, 2021 <span style="color:blue">_(Best paper award)_</span>
 
-- **Confidence sequences for sampling without replacement**\\
-	I. Waudby-Smith and A. Ramdas \\
-    [arxiv](https://arxiv.org/abs/2006.04347) &middot; [pdf](https://arxiv.org/pdf/2006.04347.pdf) &middot; NeurIPS, 2020 _(spotlight)_ 
++ **Confidence sequences for sampling without replacement**\\
+	Ian Waudby-Smith and Aaditya Ramdas \\
+    [arXiv](https://arxiv.org/abs/2006.04347) &middot; _NeurIPS_, 2020 <span style="color:blue">_(spotlight)_</span>
 
-(A full list can be found in my <a href="/ianws_cv.pdf" target="_blank">CV</a>)
+(A full list can be found in my <a href="/ianws_cv.pdf" target="_blank">CV</a>.)
 

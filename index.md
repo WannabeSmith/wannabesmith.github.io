@@ -2,18 +2,19 @@
 layout: default
 ---
 
-
 <img class="profile-picture" src="assets/gasworks.jpg">
 
-I'm a PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/).
+I'm a PhD student in [Statistics at CMU](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/).
 
-Before coming to CMU, I studied math and statistics at the University of Waterloo in Canada.
+I am broadly interested in statistical theory and methodology, often with an eye towards anytime-valid sequential inference, causal inference, and privacy. 
 
-I am broadly interested in statistical theory, often with an eye towards nonparametric inference in adaptive and sequential settings.
+<!-- <br/> -->
+<a href="mailto:ianws@cmu.edu">ianws@cmu.edu</a>
+<br/>
 
 ---
 
-* [ianws@cmu.edu](mailto:ianws@cmu.edu)
-* [github.com/wannabesmith](https://github.com/wannabesmith)
-* [twitter.com/ianws0](https://twitter.com/ianws0)
+<center>
 
+<a href="https://github.com/wannabesmith">github</a> &middot; <a href="https://bsky.app/profile/ianws.bsky.social">bsky</a> &middot; <a href="https://twitter.com/ianws0">twitter</a>
+</center>

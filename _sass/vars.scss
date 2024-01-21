@@ -3,7 +3,7 @@
  */
 
 $accent_lightmode: #BF616A;
-$base_lightmode: #2D2D2D;
+$base_lightmode: #454545;
 $bg_lightmode: #FFFFFF;
 
 $accent_darkmode: #D8B4F9;
@@ -11,17 +11,17 @@ $base_darkmode: #EBEBEB;
 $bg_darkmode: #242424;
 
 $font_family: "Palatino";
-$header_font_size: 30px;
-$body_font_size: 18px;
+$header_font_size: 25px;
+$body_font_size: 17px;
 
 $image-size: 110px;
 
-$content-line-height: 1.25;
+$content-line-height: 1.60;
 
 /*
  * Build Variables, don't touch
  */
 
-$max-width: 700px;
-$med-width: 600px;
+$max-width: 650px;
+$med-width: 550px;
 $small-width: 480px;
