@@ -31,6 +31,8 @@ ul {
     list-style-type: circle;
 }
 
+
+
 /* 
  * lightmode/darkmode
  */
@@ -44,6 +46,9 @@ ul {
     a {
         color: $accent_lightmode;
     }
+    .emph {
+	color: $emph_lightmode;
+    }
 }
 
 /* Dark mode */
@@ -54,6 +59,9 @@ ul {
     }
     a {
         color: $accent_darkmode;
+    }
+    .emph {
+	color: $emph_darkmode;
     }
 }
 

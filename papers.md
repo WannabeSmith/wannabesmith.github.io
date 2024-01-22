@@ -19,19 +19,19 @@ layout: default
 
 + **Nonparametric extensions of randomized response for private confidence sets** \\
   Ian Waudby-Smith, Zhiwei Steven Wu, and Aaditya Ramdas \\
-  [arXiv](https://arxiv.org/abs/2202.08728) &middot; _ICML_, 2023 <span style="color:blue">_(oral)_</span>
+  [arXiv](https://arxiv.org/abs/2202.08728) &middot; _ICML_, 2023 <span class="emph">_(oral)_</span>
 
 + **Estimating means of bounded random variables by betting** \\
 Ian Waudby-Smith and Aaditya Ramdas \\
-  [arXiv](https://arxiv.org/abs/2010.09686) &middot; _J. of the Royal Statistical Society, Series B_, 2023 <span style="color:blue">_(discussion paper)_</span>
+  [arXiv](https://arxiv.org/abs/2010.09686) &middot; _J. of the Royal Statistical Society, Series B_, 2023 <span class="emph">_(discussion paper)_</span>
 
 + **RiLACS: Risk-limiting audits via confidence sequences**\\
 Ian Waudby-Smith, Philip B. Stark, and Aaditya Ramdas \\
-  [arXiv](https://arxiv.org/abs/2107.11323) &middot; _Intl. Conf. for Electronic Voting (E-Vote-ID)_, 2021 <span style="color:blue">_(Best paper award)_</span>
+  [arXiv](https://arxiv.org/abs/2107.11323) &middot; _Intl. Conf. for Electronic Voting (E-Vote-ID)_, 2021 <span class="emph">_(Best paper award)_</span>
 
 + **Confidence sequences for sampling without replacement**\\
 	Ian Waudby-Smith and Aaditya Ramdas \\
-    [arXiv](https://arxiv.org/abs/2006.04347) &middot; _NeurIPS_, 2020 <span style="color:blue">_(spotlight)_</span>
+    [arXiv](https://arxiv.org/abs/2006.04347) &middot; _NeurIPS_, 2020 <span class="emph">_(spotlight)_</span>
 
 (A full list can be found in my <a href="/ianws_cv.pdf" target="_blank">CV</a>.)
 
