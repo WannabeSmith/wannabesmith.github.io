@@ -37,5 +37,5 @@ Ian Waudby-Smith, Philip B. Stark, and Aaditya Ramdas \\
 	Ian Waudby-Smith and Aaditya Ramdas \\
     [arXiv](https://arxiv.org/abs/2006.04347) &middot; [_NeurIPS_](https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html), 2020 <span class="emph">_(spotlight)_</span>
 
-(A full list can be found in my <a href="/ianws_cv.pdf" target="_blank">CV</a>.)
+(A full list can be found on <a href="https://scholar.google.com/citations?user=FnyNlFAAAAAJ" target="_blank">google scholar</a>.)
 
