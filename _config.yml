@@ -1,21 +1,63 @@
-title: Ian Waudby-Smith 
-url: "https://ianws.com"
-baseurl: ""
+# Built with Jekyll 3.6.0
 
-tracking_id: #
+# Setup
+title:               ianws 
+description:         "Ian Waudby-Smith"
+url:                 'https://ianws.com'
+baseurl:             ''
 
-footer: false
-footer_url: "https://github.com/wannabesmith/wannabesmith.github.io"
-footer_text: "Fork my website on github"
+# About/contact
+author:
+  name: Ian Waudby-Smith
+  url: https://ianws.com
+  email: hello@ianws.com
 
-sass:
-    style: compressed
-    sass_dir: _sass
+# Permalinks
+permalink: /:title/
 
-nav:
- - name: "Papers"
-   link: "/papers"
- - name: "Software"
-   link: "/software"
- - name: "CV"
-   link: "/ianws_cv.pdf"
+# Set encoding to UTF-8
+encoding: UTF-8
+
+# Collections for texts
+collections:
+  blogposts:
+    output: true
+  papers: 
+    output: false
+  
+# Markdown specs
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  # enable_coderay: false
+
+# Exclusions from the final site
+exclude:
+  - optional
+  - vendor
+  - ed..gemspec
+  - Gemfile
+  - Gemfile.lock
+  - backstop_data
+  - backstop.json
+
+# Theme
+# (Used for local or custom-server deployments)
+# Uncomment the `theme` line if using the Ed. theme gem on your own computer or server.
+# See https://jekyllrb.com/docs/themes/
+# theme: "ed."
+
+# Remote Theme
+# (Used only for GitHub deployments)
+# See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
+remote_theme: minicomp/ed
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

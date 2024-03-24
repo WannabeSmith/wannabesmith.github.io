@@ -1,0 +1,35 @@
+#footer {
+    clear: both;
+	padding-bottom: 20px;
+
+	@media(max-width: 670px) {
+		width: 90%;
+	}
+    text-align: center;
+
+    .links {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        img {
+            height: 20px;
+            width: auto;
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-bottom: 10px;
+            -webkit-transition: opacity .3s;
+                    transition: opacity .3s;
+            &:hover {
+                opacity: 0.4;
+            }
+        }
+    }
+
+    .copyright {
+        padding-top: 10px;
+        text-align: center;
+        clear: both;
+    }
+	
+}

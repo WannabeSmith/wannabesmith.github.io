@@ -1,41 +1,63 @@
 ---
-layout: default
+layout: page
+title: Papers
+description: Publications, preprints, and theses
+image: /assets/images/manuscript.jpeg
 ---
 
 
-### Selected papers
+<div class='papers'>
+  {% assign pubs = site.papers | sort: "date" | reverse | uniq %}
+  
+  <h1>Selected papers </h1>
+  
+  (A full list can be found on <a href="https://scholar.google.com/citations?user=FnyNlFAAAAAJ">google scholar</a>.)
+  
+  <table class='papers-table'>
+  {% for pub in pubs %}
+  <tr>
+  <td>
+   <div class="pubtitle">{{ pub.title }}</div> 
+    <div class="pubauthors">{{ pub.authors }}.</div>
+    <a href='{{ pub.arxiv }}'>arXiv</a>
+    {% if pub.journal != nil %}
+		&middot;
+		{% if pub.journallink != nil %}
+		<em><a href="{{pub.journallink}}">{{ pub.journal }}</a>, </em> 
+		{% else %}
+		<em>{{ pub.journal }}, </em> 
+		{% endif %}
+    {% endif %}
+    {% if pub.year != nil %}
+		 {{ pub.year }}
+    {% endif %}
+    {% if pub.highlight != nil %} <span id='highlight'>({{ pub.highlight }})</span> {% endif %}
+    {% if pub.code != nil %} 
+       <a href='{{ pub.code }}'>code</a>
+    {% endif %}
+  </td> 
+  <!-- <td>
+    <div class="pubinfo">
+        {{ pub.year }}
+        <small id='highlight'>{% if pub.highlight != nil %} <br> {{ pub.highlight }}{% endif %}</small>
+    </div>
+  </td> -->
+  </tr>
+  {% endfor %}
+  </table> 
+  
+<!-- {% capture markdown_content %}
+# Software 
 
-+ **Distribution-uniform strong laws of large numbers** \\
-  Ian Waudby-Smith, Martin Larsson, and Aaditya Ramdas \\
-  [arXiv](https://arxiv.org/abs/2402.00713)
+Aside from the code associated with the papers above, here are some packages that I maintain. 
 
-+ **Distribution-uniform anytime-valid inference** \\
-  Ian Waudby-Smith and Aaditya Ramdas \\
-  [arXiv](https://arxiv.org/abs/2311.03343)
+<span style="color: black; font-weight: bold">testing-by-betting</span>: A python package which implements various methods for sequential, nonparametric hypothesis testing using various tools from game-theoretic probability and statistics. [[github]()] [[pypi]()]
 
-+ **Time-uniform central limit theory and asymptotic confidence sequences** \\
-  Ian Waudby-Smith, David Arbour, Ritwik Sinha, Edward H. Kennedy, and Aaditya Ramdas \\
-  [arXiv](https://arxiv.org/abs/2103.06476)
+<span style="color: black; font-weight: bold">xbounds</span>: A lightweight python package for Extreme Bounds Analysis. Computes both Leamer and Sala-i-Martin robustness criteria. Handles fixed-effects and multiprocessing. [[github]()] [[pypi]()]
 
-+ **Anytime-valid off-policy inference for contextual bandits** \\
-  Ian Waudby-Smith, Lili Wu, Aaditya Ramdas, Nikos Karampatziakis, and Paul Mineiro \\
-   [arXiv](https://arxiv.org/abs/2210.10768) &middot; [*ACM/IMS J. of Data Science*](https://jds.acm.org/vol_1_issue_3.html), 2023+ 
+{% endcapture %}
+{{ markdown_content | markdownify }} -->
 
-+ **Nonparametric extensions of randomized response for private confidence sets** \\
-  Ian Waudby-Smith, Zhiwei Steven Wu, and Aaditya Ramdas \\
-  [arXiv](https://arxiv.org/abs/2202.08728) &middot; [_ICML_](https://proceedings.mlr.press/v202/waudby-smith23a.html), 2023 <span class="emph">_(oral)_</span>
 
-+ **Estimating means of bounded random variables by betting** \\
-Ian Waudby-Smith and Aaditya Ramdas \\
-  [arXiv](https://arxiv.org/abs/2010.09686) &middot; [_J. of the Royal Statistical Society, Series B_](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkad009/7043257?searchresult=1), 2023 <span class="emph">_(discussion paper)_</span>
 
-+ **RiLACS: Risk-limiting audits via confidence sequences**\\
-Ian Waudby-Smith, Philip B. Stark, and Aaditya Ramdas \\
-  [arXiv](https://arxiv.org/abs/2107.11323) &middot; [_Intl. Conf. for Electronic Voting (E-Vote-ID)_](https://link.springer.com/chapter/10.1007/978-3-030-86942-7_9), 2021 <span class="emph">_(Best paper award)_</span>
-
-+ **Confidence sequences for sampling without replacement**\\
-	Ian Waudby-Smith and Aaditya Ramdas \\
-    [arXiv](https://arxiv.org/abs/2006.04347) &middot; [_NeurIPS_](https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html), 2020 <span class="emph">_(spotlight)_</span>
-
-(A full list can be found on <a href="https://scholar.google.com/citations?user=FnyNlFAAAAAJ" target="_blank">google scholar</a>.)
 

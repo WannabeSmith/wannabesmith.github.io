@@ -1,0 +1,110 @@
+.research-notes-quote {
+    text-align: justify;
+    font-size: 11pt;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+// shared between notes and writing 
+.note, .writing {
+    color: black;
+    // text-align: justify;
+    #back {
+        color: $link-color;
+    }
+    a {
+        color: $link-color;
+    }
+    #date {
+        text-align: center;
+        color: gray;
+        font-size: 10pt;
+        padding-top: 10px;
+    }
+    #markdown-toc {
+        a {
+            color: $link-color;
+        }
+        
+        padding-bottom: 20px;
+        li {
+            ul {
+                padding-bottom: 0;
+                margin-bottom: 0;
+            }
+        }
+    }
+    .title {
+        padding-top: 20px;
+        font-size: 18pt;
+        text-align: center;
+        padding-bottom: 0;
+        margin-bottom: 0;
+        width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+    } 
+    h1 {
+        font-weight: bold;
+        font-size: 16pt;
+        padding-bottom: 15px;
+        padding-top: 20px;
+    }
+    h2 {
+        font-size: 14pt;
+        font-weight: bold;
+        padding-top: 16px;
+    }
+    h3 {
+        font-weight: bold;
+    }
+    .caption {
+        font-size: 10pt;
+        color: gray;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+
+
+// research notes only 
+.note { 
+    text-align: justify;
+    img {
+        padding-top: 20px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+}
+
+// writing only 
+.writing {
+    .twitter-tweet {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    img {
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
+    }
+    #img-50 {
+        width: 50%;
+    }
+    #img-70 {
+        width: 70%;
+    }
+    #img-40 {
+        width: 40%;
+    }
+    #subscribe {
+        a {
+            color: $link-color;
+        }
+        
+    }
+}
+

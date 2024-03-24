@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: /Code.zip
-Disallow: /iws_cv.pdf
+Disallow: /ianws_cv.pdf
 Disallow: /proposal.pdf
 Disallow: /audit_demo.mov
 Disallow: /audit_demo_quick.gif

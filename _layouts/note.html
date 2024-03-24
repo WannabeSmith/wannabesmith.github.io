@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<article class="note">
+  {% if page.status == 'unpublished' %}
+    <b>Not yet public. Please do not share.</b>
+  {% endif %}
+  <p class='title'>{{ page.title }}</p> 
+  <p id="date">{{ page.date | date: '%B %d, %Y'}}</p>
+  {{ content }}
+</article>
