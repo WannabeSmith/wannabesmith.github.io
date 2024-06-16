@@ -5,3 +5,4 @@ Disallow: /proposal.pdf
 Disallow: /audit_demo.mov
 Disallow: /audit_demo_quick.gif
 Disallow: /assets/*
+Disallow: /thesis.pdf
