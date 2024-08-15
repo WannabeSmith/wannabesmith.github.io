@@ -40,7 +40,8 @@ For the sake of example, consider the following short proof of the <a href="http
 Writing out the probability of \(\limsup_{n} E_n\), we have
 
 $$\begin{align}
-  \Pr \left ( \limsup_{n \to \infty} E_n \right )&\equiv \Pr \left ( \bigcap_{m=1}^\infty \bigcup_{k = m}^\infty E_k \right ) \\
+  &\quad \Pr \left ( \limsup_{n \to \infty} E_n \right )\\
+  &\equiv \Pr \left ( \bigcap_{m=1}^\infty \bigcup_{k = m}^\infty E_k \right ) \\
                                                  &{\color{lightgray}{= \lim_{m \to \infty}\Pr \left ( \bigcup_{k = m}^\infty E_k \right )}} \\
                                                  & \color{lightgray}{=1- \lim_{m \to \infty}\Pr \left ( \bigcap_{k = m}^\infty E_k^c \right ) }\\
                                                  & =1- \lim_{m \to \infty} \lim_{K \to \infty}  \Pr \left ( \bigcap_{k = m}^K E_k^c \right ) \\
