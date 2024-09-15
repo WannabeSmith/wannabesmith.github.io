@@ -48,8 +48,8 @@ $$\begin{align}
                                                  & =1- \lim_{m \to \infty} \lim_{K \to \infty}  \Pr \left ( \bigcap_{k = m}^K E_k^c \right ) \\
                                                  &= 1- \lim_{m \to \infty} \lim_{K \to \infty} \prod_{k=m}^K \left [1-\Pr \left ( E_k \right ) \right ]\\
                                                  &\geq 1- \lim_{m \to \infty} \lim_{K \to \infty} \exp \left \{ -\sum_{k=m}^K \Pr(E_k) \right \}\\
-                                                 &= \color{lightgray}{1- \lim_{m \to \infty} \exp \left \{ -\sum_{k=m}^\infty \Pr(E_k) \right \}}\\
-                                                 &= \color{lightgray}{1- \lim_{m \to \infty} 0}\\
+                                                 & \color{lightgray}{= 1- \lim_{m \to \infty} \exp \left \{ -\sum_{k=m}^\infty \Pr(E_k) \right \}}\\
+                                                 & \color{lightgray}{= 1- \lim_{m \to \infty} 0}\\
                                                  &= 1,
 \end{align}$$
 
