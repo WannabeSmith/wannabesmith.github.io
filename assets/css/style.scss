@@ -2,6 +2,7 @@
 sitemap: false
 ---
 
+@import "vars";
 
 /*
   Common Variables
@@ -21,9 +22,9 @@ $regular-font-size: 13pt; /*1.25em; /* 20px / 16px = 1.25em; support text resizi
   Make sure to leave color-scheme in `_config.yml` file empty for granular control
 */
 
-$text-color: #686565;
+$text-color: $base_lightmode;
 $heading-color: #000000;
-$link-color: #BF616A;
+$link-color: $accent_lightmode;
 
 @import "ed";
 @import "syntax";
