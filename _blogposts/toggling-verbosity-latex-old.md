@@ -1,10 +1,12 @@
 ---
 layout: note 
-date: "2025-07-22" 
-title: "Toggling verbosity in LaTeX derivations"
+date: "2024-03-18" 
+title: "Toggling verbosity in LaTeX derivations (old)"
 status: published
 category: academic
 ---
+
+<center><em>(An updated version of this post can be found <a href="/blogposts/toggling-verbosity-latex">here</a>. This one is only kept for posterity.)</em></center>
 
 $$
 \newcommand{\Fcal}{\mathcal{F}}
@@ -12,7 +14,7 @@ $$
 \newcommand{\EE}{\mathbb{E}}
 $$
 
-I find it helpful to write proofs so that they can optionally be made more verbose (e.g. to fill in certain details in a derivation). There's a very simple trick you can use to accomplish this and it's already built in to LaTeX; --- no additional packages needed. This idea is an adaptation of [this reddit comment](https://old.reddit.com/r/LaTeX/comments/p321rh/is_there_a_way_to_have_two_versions_of_a_document/h8ojktk/).
+I find it helpful to write proofs so that they can optionally be made more verbose (e.g. to fill in certain details in a derivation). There's a very simple trick you can use to accomplish this and it's already built in to LaTeX --- no additional packages needed. This idea was taken from [this reddit comment](https://old.reddit.com/r/LaTeX/comments/p321rh/is_there_a_way_to_have_two_versions_of_a_document/h8ojktk/).
 
 Put the following in your preamble:
 
@@ -20,12 +22,10 @@ Put the following in your preamble:
 % Verbose LaTeX doc.
 \newif\ifverbose % Define a new Boolean value "verbose".
 % Initially it is false.
-\verbosetrue % set verbose to true/false here.
-
-\newcommand{\verbose}[1]{\ifverbose\textcolor{gray}{\textit{verbose $\rightarrow$}}\quad #1\textcolor{gray}{\textit{non-verbose $\rightarrow$}}\quad \fi}
+\verbosefalse % set verbose to true/false here.
 ```
 
-Any lines you would like to restrict to the "verbose" version of your paper should then be wrapped in `\verbose{<content>}`.
+Any content you would like to restrict to the "verbose" version of your paper should then be wrapped in `\ifverbose <content> \if`.
 
 # Demo
 
@@ -44,13 +44,13 @@ Writing out the probability of \(\limsup_{n} E_n\), we have
 $$\begin{align}
   &\quad \Pr \left ( \limsup_{n \to \infty} E_n \right )\\
   &\equiv \Pr \left ( \bigcap_{m=1}^\infty \bigcup_{k = m}^\infty E_k \right ) \\
-                                                 &{\ \color{lightgray}{= \lim_{m \to \infty}\Pr \left ( \bigcup_{k = m}^\infty E_k \right )}} \\
-                                                 & \ \color{lightgray}{=1- \lim_{m \to \infty}\Pr \left ( \bigcap_{k = m}^\infty E_k^c \right ) }\\
+                                                 &{\color{lightgray}{= \lim_{m \to \infty}\Pr \left ( \bigcup_{k = m}^\infty E_k \right )}} \\
+                                                 & \color{lightgray}{=1- \lim_{m \to \infty}\Pr \left ( \bigcap_{k = m}^\infty E_k^c \right ) }\\
                                                  & =1- \lim_{m \to \infty} \lim_{K \to \infty}  \Pr \left ( \bigcap_{k = m}^K E_k^c \right ) \\
                                                  &= 1- \lim_{m \to \infty} \lim_{K \to \infty} \prod_{k=m}^K \left [1-\Pr \left ( E_k \right ) \right ]\\
                                                  &\geq 1- \lim_{m \to \infty} \lim_{K \to \infty} \exp \left \{ -\sum_{k=m}^K \Pr(E_k) \right \}\\
-                                                 & \ \color{lightgray}{= 1- \lim_{m \to \infty} \exp \left \{ -\sum_{k=m}^\infty \Pr(E_k) \right \}}\\
-                                                 &\ \color{lightgray}{= 1- 0}\\
+                                                 & \color{lightgray}{= 1- \lim_{m \to \infty} \exp \left \{ -\sum_{k=m}^\infty \Pr(E_k) \right \}}\\
+                                                 & \color{lightgray}{= 1- \lim_{m \to \infty} 0}\\
                                                  &= 1,
 \end{align}$$
 
@@ -62,21 +62,20 @@ If the above derivations are written with the following TeX, then toggling betwe
 
 
 ```LaTeX
-
 \begin{align}
   \Pr \left ( \limsup_{n \to \infty} E_n \right )
   &\equiv \Pr \left ( \bigcap_{m=1}^\infty \bigcup_{k = m}^\infty E_k \right ) \\
-  \verbose{ %BEGIN VERBOSE
+  \ifverbose %BEGIN VERBOSE
   &= \lim_{m \to \infty}\Pr \left ( \bigcup_{k = m}^\infty E_k \right ) \\
   & =1- \lim_{m \to \infty}\Pr \left ( \bigcap_{k = m}^\infty E_k^c \right ) \\
-  } %END VERBOSE
+  \fi %END VERBOSE
   & =1- \lim_{m \to \infty} \lim_{K \to \infty}  \Pr \left ( \bigcap_{k = m}^K E_k^c \right ) \\
   &= 1- \lim_{m \to \infty} \lim_{K \to \infty} \prod_{k=m}^K \left [1-\Pr \left ( E_k \right ) \right ]\\
   &\geq 1- \lim_{m \to \infty} \lim_{K \to \infty} \exp \left \{ -\sum_{k=m}^K \Pr(E_k) \right \}\\
-  \verbose{ %BEGIN VERBOSE
+  \ifverbose %BEGIN VERBOSE
   &= 1- \lim_{m \to \infty} \exp \left \{ -\sum_{k=m}^\infty \Pr(E_k) \right \}\\
-  &= 1- 0\\
-  } %END VERBOSE
+  &= 1- \lim_{m \to \infty} 0\\
+  \fi %END VERBOSE
   &= 1,
 \end{align}
 ```
@@ -87,10 +86,8 @@ That's all there is to it.
 
 *Bonus: if you use [yasnippet](https://github.com/joaotavora/yasnippet) in emacs or similar tools in neovim etc., it is very handy to have a snippet that creates the following.*
 ```LaTeX
-\verbose{ %BEGIN VERBOSE
+\ifverbose %BEGIN VERBOSE
   %<content goes here>
-} %END VERBOSE
+\fi %END VERBOSE
 ```
-
-<center><em>(This is an updated version of an older <a href="/blogposts/toggling-verbosity-latex-old">post</a> on the same topic)</em></center>
 
