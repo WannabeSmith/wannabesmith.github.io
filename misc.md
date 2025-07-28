@@ -14,6 +14,8 @@ title: Miscellaneous
       {% endfor %}
 {% endfor %}
 
+	<center><em><a href="/atom.xml">Atom / RSS feed</a></em></center>
+
 
 # Random links
 
