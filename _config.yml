@@ -10,7 +10,7 @@ baseurl:             ''
 author:
   name: Ian Waudby-Smith
   url: https://ianws.com
-  email: ianws@berkeley.edu
+  email: ian@ianws.com
 
 # Permalinks
 permalink: /:title/
