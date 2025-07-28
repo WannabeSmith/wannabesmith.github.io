@@ -1,6 +1,6 @@
 ---
 layout: note 
-date: "2025-07-23" 
+date: "2025-07-28" 
 title: "A beamer theme inspired by macOS Keynote aesthetics"
 status: published
 category: academic
