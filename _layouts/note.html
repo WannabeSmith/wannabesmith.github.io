@@ -4,7 +4,9 @@ layout: default
 
 <article class="note">
   {% if page.status == 'unpublished' %}
-    <center><b><p style="color:red">Not yet public. Please do not share.</p></b></center>
+  <center><b><p style="color:red">Not yet public. Please do not share.</p></b></center>
+  {% elsif page.status == 'archived' %}
+  <center><em>Archived article</em></center>
   {% endif %}
   <p class='title'>{{ page.title }}</p> 
   <p id="date">{{ page.date | date: '%B %d, %Y'}}</p>

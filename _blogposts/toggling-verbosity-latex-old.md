@@ -2,7 +2,7 @@
 layout: note 
 date: "2024-03-18" 
 title: "Toggling verbosity in LaTeX derivations (old)"
-status: published
+status: archived
 category: academic
 ---
 
