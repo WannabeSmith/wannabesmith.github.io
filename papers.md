@@ -46,6 +46,8 @@ image: /assets/images/manuscript.jpeg
   {% endfor %}
   </table> 
   
+ <sup><span class="alphabetical">αβ</span></sup><em>Alphabetical ordering.</em>
+  
 <!-- {% capture markdown_content %}
 # Software 
 
