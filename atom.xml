@@ -25,4 +25,14 @@ layout: null
  </entry>
  {% endfor %}
 
+ {% for gallery in site.photos %}
+ <entry>
+   <title>{{ gallery.title }}</title>
+   <link href="{{ site.url }}{{ gallery.url }}"/>
+   <updated>{{ gallery.date | date_to_xmlschema }}</updated>
+   <id>{{ site.url }}{{ site.baseurl }}{{ gallery.id }}</id>
+   <content type="html">{{ gallery.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
 </feed>

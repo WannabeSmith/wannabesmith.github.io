@@ -1,0 +1,44 @@
+// .galleries-overview {
+    // @extend .column;
+    // @media screen and (min-width: $on-palm) {
+    // 	width: 48%;
+    // }
+    // width: 49%;
+    // display: inline-block;
+// }
+.photos-overview {
+  display: grid;
+  /* Defines 2 rows, each taking an equal fraction of the available space */
+  // grid-template-rows: repeat(2, 1fr);
+  /* Defines 4 columns, each taking an equal fraction of the available space */
+  grid-template-columns: repeat(2, 1fr);
+  /* Sets a gap of 20px between grid items, both horizontally and vertically */
+  gap: 20px;
+  /* Centers the grid items horizontally within their respective grid cells */
+  justify-items: center;
+  /* Centers the grid items vertically within their respective grid cells */
+  align-items: center;
+  /* Optional: Set a maximum width for the container and center it on the page */
+  // max-width: 900px;
+  margin: 0 auto;
+  /* Optional: Add some padding to the container */
+  padding: 10px;
+  /* Optional: Add a border for visualization */
+  // border: 1px solid #ccc;
+}
+
+
+.photos-overview-item {
+  display: flex;
+  // justify-content: center;
+  // align-items: center;
+  flex-direction: column;
+  // min-height: 56px;
+  // font-size: 14px;
+  text-decoration: none;
+}
+
+.gallery-item {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
