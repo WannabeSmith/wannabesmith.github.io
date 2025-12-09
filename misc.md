@@ -14,7 +14,10 @@ title: Miscellaneous
       {% endfor %}
 {% endfor %}
 
-	<center><em><a href="/atom.xml">Atom / RSS feed</a></em></center>
+
+# [Photos from recent travels](/photos)
+
+<center><em><a href="/atom.xml">Atom / RSS feed</a></em></center>
 
 
 # Random links
@@ -26,6 +29,8 @@ Interesting things I want more people to see.
 	This is a criminally under-viewed treasure trove of interviews with famous statisticians. For example, [A conversation with Herbert Robbins](https://www.youtube.com/watch?v=IIO2urt8jHI) moderated by Frank Anscombe in 1990 is a wonderful watch.
 
 - [An interview with Kai Lai Chung](https://www.youtube.com/watch?v=9WOHUxJctbM) and [an interview with Joseph L. Doob](https://www.youtube.com/watch?v=EiYsvdLtdS4), both conducted by Eugene Dynkin at Cornell.
+
+
 
 <br/>
 

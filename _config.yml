@@ -22,6 +22,8 @@ encoding: UTF-8
 collections:
   blogposts:
     output: true
+  photos:
+    output: true
   papers: 
     output: false
   
