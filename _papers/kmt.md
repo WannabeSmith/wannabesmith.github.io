@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Nonasymptotic and distribution-uniform Komlós-Major-Tusnády approximation
-authors: Ian Waudby-Smith, Martin Larsson, and Aaditya Ramdas 
+authors: with Martin Larsson and Aaditya Ramdas 
 publication: 
 year: 
 date: 2025-01-01

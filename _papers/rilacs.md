@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: RiLACS&colon; Risk-limiting audits via confidence sequences
-authors: Ian Waudby-Smith, Philip B. Stark, Aaditya Ramdas
+authors: with Philip B. Stark and Aaditya Ramdas
 journal: Intl. Conf. for Electronic Voting (E-Vote-ID)
 year: 2021
 date: "2021-06-01"

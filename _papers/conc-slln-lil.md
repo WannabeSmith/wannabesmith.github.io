@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Concentration inequalities for strong laws and laws of the iterated logarithm
-authors: Johannes Ruf<sup><span class="alphabetical">αβ</span></sup> and Ian Waudby-Smith<sup><span class="alphabetical">αβ</span></sup> 
+authors: with Johannes Ruf 
 publication: 
 year: 
 date: 2025-11-03

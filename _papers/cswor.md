@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Confidence sequences for sampling without replacement
-authors: Ian Waudby-Smith and Aaditya Ramdas
+authors: with Aaditya Ramdas
 journal: NeurIPS
 year: 2020
 date: "2020-01-01"

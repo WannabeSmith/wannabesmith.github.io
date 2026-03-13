@@ -44,10 +44,6 @@ image: /assets/images/manuscript.jpeg
   </tr>
   {% endfor %}
   </table> 
-  
- <sup><span class="alphabetical">αβ</span></sup><em>Alphabetical ordering.</em>
- 
- <br/>
  
   Additional papers can be found in <a href="/ianws_cv.pdf">my CV</a>.
   

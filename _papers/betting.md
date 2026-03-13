@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Estimating means of bounded random variables by betting
-authors: Ian Waudby-Smith and Aaditya Ramdas
+authors: with Aaditya Ramdas
 journal: J. of the Royal Statistical Society, Series B
 year: 2023
 date: "2023-02-16"

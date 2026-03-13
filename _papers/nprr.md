@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Nonparametric extensions of randomized response for private confidence sets
-authors: Ian Waudby-Smith, Zhiwei Steven Wu, and Aaditya Ramdas
+authors: with Zhiwei Steven Wu and Aaditya Ramdas
 journal: ICML
 year: 2023
 date: "2023-06-01"

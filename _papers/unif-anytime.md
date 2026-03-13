@@ -1,7 +1,7 @@
 ---
 layout: default 
-title: Distribution-uniform anytime-valid sequential inference
-authors: Ian Waudby-Smith, Edward H. Kennedy, and Aaditya Ramdas 
+title: Distribution-uniform anytime-valid sequential inference and the Robbins-Siegmund distributions
+authors: with Edward H. Kennedy and Aaditya Ramdas 
 publication: 
 year: 
 date: 2024-12-01 
