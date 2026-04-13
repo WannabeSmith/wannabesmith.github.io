@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Multi-armed sequential hypothesis testing by betting
-authors: with Ricardo J. Sandolal and Michael I. Jordan
+authors: with Ricardo J. Sandoval and Michael I. Jordan
 publication: 
 year: 
 date: 2026-03-19
