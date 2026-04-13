@@ -3,11 +3,11 @@ layout: default
 title: "Ian Waudby-Smith"
 ---
 
-<img id='headerim' src="/assets/images/headshot2024.jpg">
+<img id='headerim' src="/assets/images/recurzoom.jpg">
 
-I am a [Miller](https://miller.berkeley.edu/) postdoctoral fellow in [Statistics at UC Berkeley](https://statistics.berkeley.edu/) where I am fortunate to be hosted by [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). 
+I am a [Miller](https://miller.berkeley.edu/) fellow at the University of California, Berkeley. I am hosted in the [Department of Statistics](https://statistics.berkeley.edu/) by [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). 
 
-Previously, I completed my PhD in [Statistics at CMU](http://stat.cmu.edu/) where I worked with [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/). My thesis can be found [here](thesis.pdf). Before that, I obtained a Bachelor's degree in mathematics and statistics from the [University of Waterloo](https://uwaterloo.ca/math/) in Canada.
+I completed my PhD in the [Department of Statistics and Data Science](https://www.cmu.edu/dietrich/statistics-datascience/index.html) at Carnegie Mellon University where I was advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/). Before that, I obtained a Bachelor's degree in mathematics and statistics from the [University of Waterloo](https://uwaterloo.ca/math/).
 
-I am broadly interested in statistics, machine learning, and probability, often with an eye towards anytime-valid sequential inference, [e-values](https://en.wikipedia.org/wiki/E-values), causal inference, and privacy. 
+I am broadly interested in statistics, machine learning theory, and probability. Recently, I have focused on topics in anytime-valid sequential inference, e-values, concentration inequalities, strong limit theorems, and causal inference. 
 

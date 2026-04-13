@@ -11,9 +11,9 @@ sitemap: false
 */
 
 /* Fonts */
-$main-font: "Libertinus Serif";
-$heading-font: "Libertinus Serif";
-$regular-font-size: 16pt; /*1.25em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
+$main-font: "Palatino";
+$heading-font: "Palatino";
+$regular-font-size: 14pt; /*1.25em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
 
 /*
   Color
@@ -24,6 +24,9 @@ $regular-font-size: 16pt; /*1.25em; /* 20px / 16px = 1.25em; support text resizi
 $text-color: $base_lightmode;
 $heading-color: #000000;
 $link-color: $accent_lightmode;
+
+$content-margin-bottom: 2em;
+$header-image-width-percentage: 30%;
 
 @import "ed";
 @import "syntax";

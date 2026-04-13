@@ -59,7 +59,7 @@ body {
 
 
 .content {
-  margin-bottom: 4rem;
+  margin-bottom: $content-margin-bottom;
 }
 
 
@@ -93,7 +93,7 @@ body {
 @media (min-width: 56em) {
   .container {
     //max-width: 38rem;
-    max-width: 41rem;
+    max-width: 37rem;
     //text-align: justify;
   }
 }
@@ -203,9 +203,9 @@ img {
 
 /* Header image */
 #headerim {
-    width: 22%;
+    width: $header-image-width-percentage;
     height: auto;
-    margin-left: 25px;
+    margin-left: 20px;
     margin-bottom: 10px;
     // display: inline-block;
     position: relative;
