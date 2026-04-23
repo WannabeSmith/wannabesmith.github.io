@@ -12,4 +12,4 @@ I completed my PhD in the [Department of Statistics and Data Science](https://ww
 
 I am broadly interested in statistics, machine learning theory, and probability. Recently, I have focused on topics in anytime-valid sequential inference, e-values, causal inference, concentration inequalities, and strong limit theorems. 
 
-
+Here is a [third person bio](/thirdpersonbio.txt) and [a recent headshot](/assets/images/headshot2024.jpg).
