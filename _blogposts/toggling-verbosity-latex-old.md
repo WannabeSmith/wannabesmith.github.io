@@ -3,7 +3,7 @@ layout: note
 date: "2024-03-18" 
 title: "Toggling verbosity in LaTeX derivations (old)"
 status: archived
-category: academic
+category: latex
 ---
 
 <center><em>(An updated version of this post can be found <a href="/blogposts/toggling-verbosity-latex">here</a>. This one is only kept for posterity.)</em></center>

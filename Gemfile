@@ -6,3 +6,5 @@ gem "webrick"
 gem "nokogiri", ">= 1.13.2"
 gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
+
+gem "base64", "~> 0.3.0"

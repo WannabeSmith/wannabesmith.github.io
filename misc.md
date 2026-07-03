@@ -3,8 +3,9 @@ layout: page
 title: Miscellaneous
 ---
 
-# Posts
+# [Photos from recent travels](/photos)
 
+# Posts
 
 {% assign notesByYear = site.blogposts | where_exp: "item", "item.status == 'published'" | sort: "date" | reverse | group_by_exp:"item", "item.date | date: '%Y'"%}
 
@@ -15,14 +16,10 @@ title: Miscellaneous
 {% endfor %}
 
 
-# [Photos from recent travels](/photos)
-
 <center><em><a href="/atom.xml">Atom / RSS feed</a></em></center>
 
 
-# Random links
-
-Interesting things I want more people to see.
+# Some links
 
 - The [Amstat youtube channel](https://www.youtube.com/@AmstatVideos).
 

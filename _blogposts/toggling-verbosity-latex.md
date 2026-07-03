@@ -3,7 +3,7 @@ layout: note
 date: "2025-07-22" 
 title: "Toggling verbosity in LaTeX derivations"
 status: published
-category: academic
+category: latex
 ---
 
 $$
