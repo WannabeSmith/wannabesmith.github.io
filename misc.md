@@ -28,7 +28,13 @@ title: Miscellaneous
 - [An interview with Kai Lai Chung](https://www.youtube.com/watch?v=9WOHUxJctbM) and [an interview with Joseph L. Doob](https://www.youtube.com/watch?v=EiYsvdLtdS4), both conducted by Eugene Dynkin at Cornell.
 
 
+# Non-academic topics
+
+I'm on a never-ending search to find new hobbies to sink time (and sometimes money) into. Talk to me about something in the set S = {drums, jazz, metal, snowboarding, emacs, self hosting, photography, motorcycles, retro video games}.
+Or convince me to add something new (but inexpensive) to S.
 
 <br/>
 
 <center><em>Website template gratefully stolen from <a href="https://benchugg.com">Ben Chugg</a>.</em></center>
+
+
