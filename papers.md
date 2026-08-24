@@ -11,6 +11,7 @@ image: /assets/images/manuscript.jpeg
   
   <h1>Selected papers </h1>
   
+  (A full list can be found in <a href="/ianws_cv.pdf">my CV</a>.)
   
   <table class='papers-table'>
   {% for pub in pubs %}
@@ -45,7 +46,6 @@ image: /assets/images/manuscript.jpeg
   {% endfor %}
   </table> 
  
-  Additional papers can be found in <a href="/ianws_cv.pdf">my CV</a>.
   
   
 <!-- {% capture markdown_content %}
