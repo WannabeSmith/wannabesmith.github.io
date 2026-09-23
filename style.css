@@ -66,3 +66,6 @@ ul {
   color: #f04a00;
 }
 
+.nav-selected {
+    font-style: italic;
+}
