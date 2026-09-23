@@ -1,0 +1,63 @@
+body {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 0 20px;
+}
+
+p {
+  font-size: 1.1rem;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #ededed;
+}
+
+a {
+  text-decoration: none;
+  color: #3366cc;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:hover,
+a:focus-visible {
+  text-decoration: underline;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  padding: 20px 0;
+}
+
+.profile-photo {
+  width: 200px;
+  object-fit: cover;
+}
+
+@media (max-width: 550px) {
+  .profile {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.papers li {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  line-height: 1.3;
+}
+
+.highlight {
+  color: #f04a00;
+}
