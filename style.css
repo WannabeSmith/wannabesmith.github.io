@@ -19,6 +19,7 @@ hr {
 
 a {
   text-decoration: none;
+  /* color: #3366cc; */
   color: #3366cc;
 }
 
@@ -64,20 +65,16 @@ ul.papers {
 }
 
 
-ul.teaching {
-  list-style: none;
-  padding-left: 0;
-}
 
 
 .teaching li {
   margin-bottom: 1rem;
   font-size: 1.1rem;
-  line-height: 1;
+  line-height: 1.2;
 }
 
 .highlight {
-  color: #f04a00;
+  color: #d8127e;
 }
 
 .nav-selected {
